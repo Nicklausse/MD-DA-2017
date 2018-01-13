@@ -1,7 +1,7 @@
 # Проверка и преобразование типов is.XYS as.XYZ 
 
 # Присвойте значение 33.3 переменной my_numeric
-my_numeric <- 33
+my_numeric <- 33.3
   
 # Установите значение my_character в "33"
 my_character <- "Привет"

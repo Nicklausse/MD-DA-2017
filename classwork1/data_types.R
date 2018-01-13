@@ -19,6 +19,7 @@ class(my_numeric)
 
 # Установите my_logical в FALSE
 my_logical <- TRUE
+my_logical <- FALSE
 
 # Проверьте тип данных my_numeric
 class(my_logical)
