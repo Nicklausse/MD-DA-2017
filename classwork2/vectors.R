@@ -21,4 +21,4 @@ num_vector[x]
 num_vector[num_vector>10]
 
 #Придумайте подобный пример для строковго вектора
-char_vector[char_vector>"a"]
+char_vector[char_vector>"b"]
